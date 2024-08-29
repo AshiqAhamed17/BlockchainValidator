@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #121212;
+  background-color: #252424;
   color: #e0e0e0;
   display: flex;
   justify-content: center;
@@ -10,10 +10,10 @@ body {
 }
 
 .container {
-  background-color: #1e1e1e;
+  background-color: #141416;
   padding: 20px;
   border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
+  box-shadow: 0 20px 30px rgba(255, 0, 174, 0.6);
   max-width: 800px;
   width: 100%;
 }
@@ -26,7 +26,7 @@ button {
   padding: 10px 20px;
   font-size: 16px;
   cursor: pointer;
-  background-color: #39009b;
+  background-color: #f4e9e9;
   color: #ffffff;
   border: none;
   border-radius: 4px;
@@ -39,12 +39,12 @@ button:hover {
 }
 
 .block {
-  background-color: #0f0e0e;
+  background-color: #000000;
   border: 1px solid #444444;
   border-radius: 4px;
   padding: 10px;
   margin-bottom: 10px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 4px 8px rgba(255, 0, 191, 0.5);
 }
 
 .block h2 {
